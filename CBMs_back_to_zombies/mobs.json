@@ -1,0 +1,56 @@
+[   
+    {
+        "id": "mon_feral_scientist_scalpel",
+        "type": "MONSTER",
+        "copy-from":"mon_feral_scientist_scalpel",
+        "dissect": "CBM_SCI_FERAL"
+    },
+    {
+        "id": "mon_zombie_scientist",
+        "type": "MONSTER",
+        "copy-from":"mon_zombie_scientist",
+        "dissect":"CBM_SCI" 
+    },
+    {
+        "id": "mon_zombie_technician",
+        "type": "MONSTER",
+        "copy-from":"mon_zombie_technician",
+        "dissect": "CBM_TECH"
+    },
+    {
+        "id": "mon_zombie_bio_op",
+        "type": "MONSTER",
+        "copy-from":"mon_zombie_bio_op",
+        "dissect": "CBM_OP"
+    },
+    {
+        "id": "mon_zombie_bio_op2",
+        "type": "MONSTER",
+        "copy-from":"mon_zombie_bio_op2",
+        "dissect":"CBM_OP2"
+    },
+    {
+        "id": "mon_zombie_brute_shocker",
+        "type": "MONSTER",
+        "copy-from":"mon_zombie_brute_shocker",
+        "dissect":"CBM_SUBS"
+    },
+    {
+        "id": "mon_zombie_electric",
+        "type": "MONSTER",
+        "copy-from":"mon_zombie_electric",
+        "dissect":"CBM_CIV"
+    },
+    {
+        "id": "mon_zombie_nullfield",
+        "type": "MONSTER",
+        "copy-from":"mon_zombie_nullfield",
+        "dissect":"CBM_SUBS"
+    },
+    {
+        "id": "mon_skeleton_electric",
+        "type": "MONSTER",
+        "copy-from":"mon_skeleton_electric",
+        "dissect":"CBM_CIV"
+    }
+]
