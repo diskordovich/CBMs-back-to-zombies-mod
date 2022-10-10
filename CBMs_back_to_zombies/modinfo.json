@@ -5,7 +5,7 @@
     "name": "CBMs back to zombies",
     "authors": [ "Diskordovich" ],
     "description": "Adds back CBMs drops on zombie dissections",
-    "category": "total_conversion",
+    "category": "balance",
     "obsolete": false,
     "dependencies": [ "dda" ]
   }
